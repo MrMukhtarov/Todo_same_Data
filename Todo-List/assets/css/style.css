@@ -1,0 +1,25 @@
+.toaster {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 1;
+    background-color: #FEF7E1;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px 5rem;
+    display: none;
+}
+
+.toaster i {
+    position: absolute;
+    top: 8px;
+    left: 40px;
+    color: #fff;
+    background-color: black;
+    padding: 6px 8px;
+    border-radius: 50%;
+}
+
+.rmv-all {
+    display: none;
+}
